@@ -32,6 +32,9 @@ function readVideoUrl(botDir: string): string {
     throw new Error('VIDEO.json still holds the placeholder address');
   }
   const address = new URL(url);
+  if (address.protocol !== 'https:' || address.username || address.password) {
+    throw new Error(`not a plain https address: ${url}`);
+  }
   const idPattern = /^[A-Za-z0-9_-]{6,}$/;
   const isShorts =
     address.hostname.endsWith('youtube.com') &&
