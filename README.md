@@ -1,7 +1,11 @@
 # Kai Cenat Trusted a Pro Driver in GTA 6... It Ends in Disaster
 
+[![make.fun bounty](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![make.fun rank](https://make.fun/badge/gta6-clipper-01/mawarht21/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![make.fun reward](https://make.fun/badge/gta6-clipper-01/mawarht21/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
+
 Entry for make.fun's **gta6-clipper-01** — "Clip GTA 6 for the most YouTube views" —
-entered under the account **@parlapo**.
+entered under the account **@parlapo**. Bounty page: https://make.fun/bounty/gta6-clipper-01
 
 ## The clip
 
